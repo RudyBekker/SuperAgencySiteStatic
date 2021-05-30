@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/legal/privacy", {data:[{}],fetch:{},mutations:void 0});
