@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/growth/affiliates", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/growth/success", {data:[{}],fetch:{},mutations:void 0});
